@@ -1,6 +1,6 @@
 Project Proposal
 -----------------
-Dr. William Oropallo
+Dr. William Oropallo (Former Instructor I at the University of South Florida)
 
 Author
 -------
