@@ -1,7 +1,7 @@
 /*
 	Author of this file:		Mihir K Patel
-	Purpose:					Following is a source file for CalcList.hpp. It implements the definitions for
-								constructors and destructors and abstract functions.
+	Purpose:			Following is a source file for CalcList.hpp. It implements the definitions for
+					constructors and destructors and abstract functions.
 
 */
 #include "CalcList.hpp"
