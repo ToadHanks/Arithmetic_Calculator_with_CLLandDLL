@@ -1,8 +1,8 @@
 /*
 	Author of this file:	Mihir K Patel
-	Purpose:				Following is a header file which overrides the abstract class of CalcListInterface.hpp. This class
-							also creates nodes for a doubly linked list. This class has prototypes for arithmetic
-							operations for the list.
+	Purpose:		Following is a header file which overrides the abstract class of CalcListInterface.hpp. This class
+				also creates nodes for a doubly linked list. This class has prototypes for arithmetic
+				operations for the list.
 */
 #ifndef CALCLIST_H
 #define CALCLIST_H
