@@ -16,7 +16,7 @@
 
 #include "CalcList.hpp"
 
-TEST_CASE("PP1: Test Cases for CalcList") {
+TEST_CASE("Test Cases for CalcList") {
   CalcList calc;
 
   SECTION("Total should be initially zero") {
