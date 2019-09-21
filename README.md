@@ -38,8 +38,8 @@ four methods:
       Returns a string of the list of operations completed so far formatted with a fixed point precision. The form of the 
       string is: "(step): (totalAtStep)(Function)(operand) = (newTotal) \n". 
       Example: toString(2) => "3: 30.00*1.00=30.00\n2: 10.00+20.00=30.00\n1: 0.00+10.00=10.00\n"    
+Please use test file CalcListTest to tet your given input. 
       
-Please use test file CalcListTest to tet your given input.   
 Examples   
 --------   
 Below are some examples of how this code runs. The test file can also be used to get an idea of how the code can run. 
