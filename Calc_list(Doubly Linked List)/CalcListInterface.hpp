@@ -1,4 +1,6 @@
+//******************************************************************************
 // Author of this file: William Oropallo
+//******************************************************************************
 #ifndef CALCLISTINTERFACE_H
 #define CALCLISTINTERFACE_H
 
