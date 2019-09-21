@@ -39,7 +39,7 @@ four methods:
       string is: "(step): (totalAtStep)(Function)(operand) = (newTotal) \n". 
       Example: toString(2) => "3: 30.00*1.00=30.00\n2: 10.00+20.00=30.00\n1: 0.00+10.00=10.00\n"        
     
-Please use test file CalcListTest to tet your given input. 
+Please use test file CalcListTest.cpp to test your given input. 
       
 Examples   
 --------   
