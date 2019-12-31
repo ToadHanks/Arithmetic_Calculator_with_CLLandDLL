@@ -6,7 +6,7 @@ Author
 -------
 Mihir Patel   
 
-Instructions
+Description
 -------------   
 This projet implements a linked list based arithmetic calculator. The calculator will be able to perform addition, subtraction, 
 multiplication, and division. The calculator will keep a running total of the operations completed, the number of operations completed,
